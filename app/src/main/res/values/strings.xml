@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Cupom</string>
+    <string name="quero">Quero!</string>
+    <string name="veja_os_melhores_cupons_de_desconto">Veja os melhores cupons de desconto!</string>
 </resources>
